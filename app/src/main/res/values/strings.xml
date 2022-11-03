@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text_view">Trivia</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="place_holder">Hello World this is where we are going to put question!</string>
+    <string name="test_formatted">Question: %d/%d</string>
+    <string name="correct_answer">Correct Answer!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+    <string name="currentScore">Current Score: %d</string>
+    <string name="highestScore">Highest Score: %d</string>
+    <string name="resetButtonText">RESET</string>
+
+</resources>
